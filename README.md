@@ -1,1 +1,1 @@
-# sympy-tutorial
+# simpy-tutorial
